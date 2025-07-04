@@ -1,0 +1,38 @@
+{
+  "pessoas": [
+    {
+      "nome": "João Silva",
+      "idade": 28,
+      "cidade": "São Paulo"
+    },
+    {
+      "nome": "Maria Santos",
+      "idade": 35,
+      "cidade": "Rio de Janeiro"
+    },
+    {
+      "nome": "Pedro Oliveira",
+      "idade": 22,
+      "cidade": "Belo Horizonte"
+    },
+    {
+      "nome": "Ana Costa",
+      "idade": 41,
+      "cidade": "Brasília"
+    },
+    {
+      "nome": "Carlos Souza",
+      "idade": 33,
+      "cidade": "Salvador"
+    },
+    {
+      "nome": "Victor samuel Oliveira",
+      "idade": 28,
+      "cidade": "Matozinhos"
+    }
+  ],
+  "total_pessoas": 6,
+  "data_criacao": "2025-07-04",
+  "versao": "1.0",
+  "ultima_modificacao": "2025-07-04 09:57:20"
+}
